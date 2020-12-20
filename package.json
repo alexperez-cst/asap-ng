@@ -1,6 +1,6 @@
 {
 	"name": "asap-ng",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "As Simple As Possible Number Generator. Little NPM Package that generates a random num between 0 and the number you like! Functions: randomCeilNumber & randomFloorNumber",
 	"main": "index.js",
 	"scripts": {
